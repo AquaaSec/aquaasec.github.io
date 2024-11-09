@@ -4,7 +4,7 @@ icon: fas fa-info-circle
 order: 4
 ---
 
-**Hey!**
+## **Hey!**
 
 Welcome to my cybersecurity blog! I'm a passionate student just starting out my journey in the world of cybersecurity and IT. I'm commited to building a solid foundation in this exciting and ever-evolving field. My goal with this blog is to document and share my learning process, from basic security principles to fascinating insights I discover along the way.
 
