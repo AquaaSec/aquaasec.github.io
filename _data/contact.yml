@@ -4,8 +4,8 @@
   icon: "fab fa-github"
 
 - type: twitter
-  icon: "fa-solid fa-box-open"
-
+  icon: "fa-brands fa-twitter"
+  
 # - type: email
 #  icon: "fas fa-envelope"
 #  noblank: true # open link in current tab
