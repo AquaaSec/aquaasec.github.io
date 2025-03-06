@@ -1,0 +1,32 @@
+---
+title: My Journey to Earning the Certified Penetration Testing Specialist (CPTS) Certification
+date: 2025-03-06 12:26:00 -500
+categories: [HacktheBox]
+tags: [Cybersecurity,CPTS]
+description: My journey to obtaining the CPTS certification.
+image:
+  path: /assets/img/CPTS.png
+---
+
+I recently obtained the Certified Penetration Testing Specialist (CPTS) certification from Hack The Box, and boy, was it a journey. After three months of studying, I went from struggling to complete a single machine without write-ups to learning techniques such as SQL injection, Cross-Site Scripting (XSS), Local File Inclusion (LFI), pivoting, Kerberoasting, and much more.
+
+This certification was challenging but taught me a lot about the fundamentals of penetration testing, and I’m excited to move on to the next certification.
+
+# Prerequisites
+This certification isn’t one you can simply buy and take. It requires a few prerequisites, including completing the entire course content. Below, I’ve included a picture of the stats for the required course.
+
+![Statistics](/assets/img/stats.png)
+
+The course covers many topics, including Web Exploitation, Active Directory, Reporting, and Pivoting. I found it to be very practical, with numerous hands-on labs to reinforce the knowledge gained. Each topic is covered in depth, allowing students to understand not just how each tool works but also how each exploit functions.
+
+The course goes beyond public proof-of-concept exploits by teaching students how to abuse common misconfigurations in various services. Additionally, it provides a thorough breakdown of Active Directory exploitation, helping students develop a strong understanding of common security weaknesses.
+
+# The Exam
+The exam was a daunting challenge, spanning 10 intense days. However, everything tested is thoroughly explained in the course. I personally dedicated around 10 hours a day to the exam and ended up finishing a day early.
+
+This exam is very demanding, requiring students to go beyond public exploits and dive deep into misconfigurations, web exploitation, and Active Directory attacks.
+
+A key component of the exam is the commercial-grade report, which must include an executive summary, a list of findings, remediation advice, and a remediation plan. The report is graded harshly, and many fail due to its quality alone. My report ended up being 100 pages long, though that included many screenshots.
+
+# Final Thoughts
+I highly recommend this course to anyone at a beginner-to-intermediate level, as it provides an in-depth understanding of penetration testing tools and techniques. The CPTS certification thoroughly prepares students for network penetration testing by covering both manual and automated exploitation.
