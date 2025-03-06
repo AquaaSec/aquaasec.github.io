@@ -6,9 +6,11 @@ order: 4
 
 # **Hello!**
 
-I started this blog in 2025 to share my research in the field of cybersecurity. I also post CTF writeups and projects here.
+I started this blog in 2025 to share my research in the field of cybersecurity. I also intend to showcase any accomplishments or projects I may be working on.
 
-I hope my research can be helpful and insightful to you as I share and post about it.
+I am a Cybersecurity Analyst and Student working on broading my knowledge within the field constantly seeking to learn more and share my experiences. Currently I hold the Certified Penetration Testing Specialist (CPTS) certification and I am working on achieving more in the future.
+
+Hopefully through this blog I will be able to clearly share my experiences and help someone else out.
 
 # Socials
 
